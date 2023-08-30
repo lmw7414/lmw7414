@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%20to%20Minwoo's%20github💛&fontSize=60&fontAlignY=40)<br/> 
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome💛&fontSize=60&fontAlignY=40)<br/> 
 ### Hi there👋! I'm backend developer mainly using spring!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmw7414%2Fhit-counter&count_bg=%2313DDC7&title_bg=%237C7C7C&icon=apacheairflow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmw7414)](https://github.com/lmw7414/github-readme-stats)
