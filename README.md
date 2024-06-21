@@ -1,30 +1,25 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome💛&fontSize=60&fontAlignY=40)<br/> 
-### Hi there👋! I'm backend developer mainly using spring!
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flmw7414%2Fhit-counter&count_bg=%2313DDC7&title_bg=%237C7C7C&icon=apacheairflow.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmw7414)](https://github.com/lmw7414/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lmw7414)](https://solved.ac/lmw7414/)
+## 👋🏻 **Introduction**
 
-### 🙌 Contact Me!
-<a href="https://www.instagram.com/immigrant_co/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/immigrant_co/"/></a>
-<a href="mailto:lmw741469@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=matilto:lmw741469@gmail.com"/></a>
+#### 
+안녕하세요! <span>$\normalsize{\bf{\color{#4B89DC}한걸음\ 뒤에서\ 바라보는\ 개발자\ }}$</span>이민우입니다.
+### &nbsp;&nbsp;👦🏻 “신입 개발자”로서 저는
+ &nbsp;&nbsp;문제를 해결하기 위해 먼저 **그림을 그려보고 코드를 설계하는 습관**을 길러왔습니다.
+ </br>&nbsp;&nbsp;즉, 기능 개발에 급급하기 보다 주어진 문제에 특화된 코드의 구조를 설계하고, 앞으로 발생할 위험을 **최소화**하는 것을 우선합니다.
+ </br>&nbsp;&nbsp;이로써 **안전한 코드**를 추구하며 동료와의 협업에 도움이 될 수 있도록 합니다.
+ 
+ ## 🎓 Education
+- 2023.07. ~ 2024.06.    SSAFY Java 전공 트랙 10기 수료
+- 2021.03. ~ 2023.02.    경북대학교 컴퓨터학부(글로벌소프트웨어융합학과, 부전공 일어일문학과)
+- 2016.03. ~ 2020.02.    금강대학교 IT경영학과(소프트웨어 트랙, 부전공 경영학과)
 
+## 🔥 **Skills**
 
-### 💻 Skills
-<img src="https://img.shields.io/badge/Java-6DB33F?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> 
-<!--
-**lmw7414/lmw7414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+- **Backend**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| `Java` `SpringBoot` `JPA`
+- **DB**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| `MySQL` `MariaDB` `PostgreSql` `MongoDB` `Redis` `ElasticSearch`
+- **Infra**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| `AWS(EC2, S3)` `Docker` `Nginx` `Jenkins` `Git`
+- **Data**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| `Python` `Airflow` `ApacheSpark` `Kafka`
+- **Communication**&nbsp;&nbsp;| `Jira` `Mattermost` `Notion` `Gerrit`
